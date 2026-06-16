@@ -63,6 +63,3 @@ python main.py
 ```
 
 Сохранения создаются в файле `save_data.json` рядом с игрой.
-
-3. Замени `<your-user>` и `<your-repo>` на свой логин и имя репозитория.
-4. Если GitHub просит авторизацию, используй GitHub CLI, SSH-ключ или personal access token.
