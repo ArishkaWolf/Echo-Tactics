@@ -64,19 +64,5 @@ python main.py
 
 Сохранения создаются в файле `save_data.json` рядом с игрой.
 
-## Как залить проект на GitHub
-
-1. Создай новый пустой репозиторий на GitHub.
-2. В папке проекта выполни:
-
-```bash
-git init
-git add .
-git commit -m "Initial Echo Tactics game"
-git branch -M main
-git remote add origin https://github.com/<your-user>/<your-repo>.git
-git push -u origin main
-```
-
 3. Замени `<your-user>` и `<your-repo>` на свой логин и имя репозитория.
 4. Если GitHub просит авторизацию, используй GitHub CLI, SSH-ключ или personal access token.
